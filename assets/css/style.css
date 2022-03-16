@@ -42,6 +42,7 @@ body {
   font-size: 18px;
   font-weight: bold;
   border: none;
+  border-radius: 7px;
   cursor: pointer;
 }
 
